@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jarry
 - 👀 I’m interested in programming and reading.
-     I like Java/Kotlin/JS/JS/Python/Go/Rust/C etc.
+     I like Java/Kotlin/JS/TS/Python/Go/C/Rust etc.
 - 🌱 I’m currently learning web3.0 and AIGC
 - 📫 How to reach me?  wx: springbuild
 

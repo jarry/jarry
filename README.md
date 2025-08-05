@@ -1,6 +1,6 @@
 👋 Hi, I’m @jarry. 李春平
 
-👀 I’m interested in programming and reading. I use Java, JavaScript, GO, Python and C language.
+👀 I’m interested in programming and reading. I use Java, JavaScript, GO, Python and C language.<br>
 🌱 I also like to study Chinese culture and philosophy. 喜欢编程，爱好国学，也投资股票和基金。如有兴趣可加好友！<br>
 📫 How to reach me? wechat: springbuild  
 

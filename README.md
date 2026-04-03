@@ -1,7 +1,8 @@
-👋 Hi, I’m @jarry. 我是李春平
+👋 Hi, I’m @jarry. 我是李春平，一个工作20年的互联网程序员。
 
-👀 I’m interested in programming and reading. I use Java, JavaScript, GO, Python and C language.<br>
-🌱 I also like to study Chinese culture and philosophy. 我喜欢编程，爱好国学，也投资股票和基金。如有兴趣可加好友！<br>
+👀 I’m interested in programming and reading. I use Java, JavaScript, Python, GO and C language.<br>
+🌱 I also like to study Chinese culture and philosophy. 我喜欢编程，爱好国学，也投资股票和基金。<br>
+AI时代来临，我在打造一个AI编程知识网站：https://microwind.github.io 如有兴趣可加好友！<br>
 📫 How to reach me? wechat: springbuild  
 
 [知乎](https://www.zhihu.com/people/lightsunshine)
